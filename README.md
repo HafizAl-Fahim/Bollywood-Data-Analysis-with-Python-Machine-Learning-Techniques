@@ -60,3 +60,13 @@ The following tasks were performed:
    ```bash
    git clone https://github.com/your-username/bollywood-eda.git
    cd bollywood-eda
+
+   Install dependencies:
+   pip install pandas matplotlib seaborn
+
+   Launch Jupyter Notebook or Google Colab
+   Run Bollywood Release Data Visualization.ipynb
+
+
+   
+
